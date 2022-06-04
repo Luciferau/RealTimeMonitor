@@ -6,6 +6,6 @@ remember to create  a subject
 
 The opencv you can dowmload at Official website;
 
-The Face monitoring code i will send a another article
+The Face Face detection code i will send a another article（also by opencv）
 
 Thanks for reading;
